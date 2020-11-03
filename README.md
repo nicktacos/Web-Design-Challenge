@@ -1,2 +1,2 @@
 # Web-Design-Challenge
-nicktacos.github.io/Web-Design-Challenge/WebVisualizations/Landing.html
+https://nicktacos.github.io/Web-Design-Challenge/WebVisualizations/Landing.html
